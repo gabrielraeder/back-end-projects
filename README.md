@@ -100,3 +100,13 @@
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/mongodb-commerce>🔗 mongodb-commerce</a>
 </details>
 <hr>
+
+<details>
+  <summary> Car Shop
+
+   - Project developed to learn about Mongoose
+
+  </summary>
+  <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/car-shop>🔗 car-shop</a>
+</details>
+<hr>
