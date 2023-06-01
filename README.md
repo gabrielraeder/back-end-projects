@@ -70,4 +70,3 @@
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/trybesmith>🔗 trybesmith</a>
 </details>
 <hr>
-trybesmith
