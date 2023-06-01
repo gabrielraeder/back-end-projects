@@ -110,3 +110,13 @@
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/car-shop>🔗 car-shop</a>
 </details>
 <hr>
+
+<details>
+  <summary> Delivery app
+
+   - Full-stack project developed at end of Backend course
+
+  </summary>
+  <a href=https://github.com/gabrielraeder/Delivery-app>🔗 delivery-app</a>
+</details>
+<hr>
