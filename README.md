@@ -44,9 +44,19 @@
 <details>
   <summary> Store Manager
 
-   - Project develop to while learning about Node.js, with Express.js and MySQL
+   - Project develop while learning about Node.js, with Express.js and MySQL
 
   </summary>
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/store-manager>🔗 store-manager</a>
+</details>
+<hr>
+
+<details>
+  <summary> Blogs API
+
+   - Project develop while learning about Sequelize ORM with Node.js and Express.js
+
+  </summary>
+  <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/blogs-api>🔗 blogs-api</a>
 </details>
 <hr>
