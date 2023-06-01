@@ -40,3 +40,13 @@
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/talker-manager>🔗 talker-manager</a>
 </details>
 <hr>
+
+<details>
+  <summary> Store Manager
+
+   - Project develop to while learning about Node.js, with Express.js and MySQL
+
+  </summary>
+  <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/store-manager>🔗 store-manager</a>
+</details>
+<hr>
