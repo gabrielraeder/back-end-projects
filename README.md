@@ -60,3 +60,14 @@
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/blogs-api>🔗 blogs-api</a>
 </details>
 <hr>
+
+<details>
+  <summary> Trybesmith
+
+   - Project develop while learning TypeScript
+
+  </summary>
+  <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/trybesmith>🔗 trybesmith</a>
+</details>
+<hr>
+trybesmith
