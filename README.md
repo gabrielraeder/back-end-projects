@@ -70,3 +70,13 @@
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/trybesmith>🔗 trybesmith</a>
 </details>
 <hr>
+
+<details>
+  <summary> Trybe and Dragons
+
+   - Project develop while learning OOP with Typescript
+
+  </summary>
+  <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/trybers-dragons>🔗 trybers-dragons</a>
+</details>
+<hr>
