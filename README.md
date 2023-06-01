@@ -30,3 +30,13 @@
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/mysql-one-for-all>🔗 mysql-one-for-all</a>
 </details>
 <hr>
+
+<details>
+  <summary> Talker Manager
+
+   - Project develop to start learning about Node.js, with Express.js
+
+  </summary>
+  <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/talker-manager>🔗 talker-manager</a>
+</details>
+<hr>
