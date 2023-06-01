@@ -20,3 +20,13 @@
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/mysql-all-for-one>🔗 mysql-all-for-one</a>
 </details>
 <hr>
+
+<details>
+  <summary> MySQL One for All
+
+   - Project develop to deepen my knowledge about MySQL
+
+  </summary>
+  <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/mysql-one-for-all>🔗 mysql-one-for-all</a>
+</details>
+<hr>
