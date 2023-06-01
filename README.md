@@ -4,7 +4,7 @@
 <details>
   <summary> Docker to do list
 
-   - Project develop to learn how to orchestrate docker containers
+   - Project developed to learn how to orchestrate docker containers
 
   </summary>
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/docker-todo-list>🔗 docker-todo-list</a>
@@ -14,7 +14,7 @@
 <details>
   <summary> MySQL All for One
 
-   - Project develop to learn about MySQL
+   - Project developed to learn about MySQL
 
   </summary>
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/mysql-all-for-one>🔗 mysql-all-for-one</a>
@@ -24,7 +24,7 @@
 <details>
   <summary> MySQL One for All
 
-   - Project develop to deepen my knowledge about MySQL
+   - Project developed to deepen my knowledge about MySQL
 
   </summary>
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/mysql-one-for-all>🔗 mysql-one-for-all</a>
@@ -34,7 +34,7 @@
 <details>
   <summary> Talker Manager
 
-   - Project develop to start learning about Node.js, with Express.js
+   - Project developed to start learning about Node.js, with Express.js
 
   </summary>
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/talker-manager>🔗 talker-manager</a>
@@ -44,7 +44,7 @@
 <details>
   <summary> Store Manager
 
-   - Project develop while learning about Node.js, with Express.js and MySQL
+   - Project developed while learning about Node.js, with Express.js and MySQL
 
   </summary>
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/store-manager>🔗 store-manager</a>
@@ -54,7 +54,7 @@
 <details>
   <summary> Blogs API
 
-   - Project develop while learning about Sequelize ORM with Node.js and Express.js
+   - Project developed while learning about Sequelize ORM with Node.js and Express.js
 
   </summary>
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/blogs-api>🔗 blogs-api</a>
@@ -64,7 +64,7 @@
 <details>
   <summary> Trybesmith
 
-   - Project develop while learning TypeScript
+   - Project developed while learning TypeScript
 
   </summary>
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/trybesmith>🔗 trybesmith</a>
@@ -74,9 +74,19 @@
 <details>
   <summary> Trybe and Dragons
 
-   - Project develop while learning OOP with Typescript
+   - Project developed while learning OOP with Typescript
 
   </summary>
   <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/trybers-dragons>🔗 trybers-dragons</a>
+</details>
+<hr>
+
+<details>
+  <summary> Trybe Futebol Clube
+
+   - Full-Stack Project developed while learning OOP with Typescript
+
+  </summary>
+  <a href=https://github.com/gabrielraeder/back-end-projects/tree/main/trybe-futebol-clube>🔗 trybe-futebol-clube</a>
 </details>
 <hr>
